@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Twitter Remove comment sorting",
+	"version": "1.0",
+
+	"description": "Removes comment sorting button from Twitter/X posts",
+
+	"icons": {
+		"48": "icons/icon-48.png"
+	},
+
+	"content_scripts": [
+		{
+			"matches": ["*://x.com/*", "*://twitter.com/*"],
+			"js": ["fsortingbutton.js"]
+		}
+	]
+}
