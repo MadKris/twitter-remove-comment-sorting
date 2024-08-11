@@ -4,9 +4,11 @@ So if your eyes are bleeding like mine every time you look at it - this extensio
 
 Without extension:
 
-![image](https://github.com/user-attachments/assets/06dec8da-c7c8-4e6e-adc0-b748a362168c)
+![image](https://github.com/user-attachments/assets/86cfc735-3367-4487-b1fa-386b7b9d5063)
+
 
 With extension:
 
-![image](https://github.com/user-attachments/assets/7cc9d44f-bb79-4714-b34d-93462f4f497b)
+![image](https://github.com/user-attachments/assets/a3097375-b17c-4af1-833b-5c6139ff8aa5)
+
 
